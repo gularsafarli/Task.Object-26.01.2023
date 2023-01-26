@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\bin\Debug\netcoreapp3.1\task -class.exe
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\bin\Debug\netcoreapp3.1\task -class.deps.json
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\bin\Debug\netcoreapp3.1\task -class.runtimeconfig.json
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\bin\Debug\netcoreapp3.1\task -class.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\bin\Debug\netcoreapp3.1\task -class.dll
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\bin\Debug\netcoreapp3.1\task -class.pdb
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.dll
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.pdb
+C:\Users\ASUS\source\repos\task -class 26.2023\task -class\obj\Debug\netcoreapp3.1\task -class.genruntimeconfig.cache
